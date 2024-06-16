@@ -44,5 +44,5 @@ An API for managing tasks with user authentication and authorization using JWT t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-management-api.git
-   cd task-management-api
+   git clone https://github.com/Mohd-Shariq148/Task-Management-System.git
+   cd Task-Management-System
