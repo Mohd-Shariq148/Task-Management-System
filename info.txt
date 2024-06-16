@@ -1,0 +1,7 @@
+1.install modules ---> npm install express mongoose dotenv body-parser nodemon
+2.app.js
+3.models ---> (connection.js, task.js)
+4.controllers ---> TaskController.js
+5.routes ---> taskRoutes.js
+6.middleware ---> errorhandlere.js
+7.modified app.js in all aspects
